@@ -66,6 +66,12 @@ git clone https://github.com/your_username/phonepe-pulse.git
      ```
 
 2. Run the Streamlit app:
-streamlit run streamlit_dashboard.py
+   Open your terminal or command prompt and navigate to the directory where your `streamlit_dashboard.py` file is located.
 
+   Run the following command:
+   streamlit run streamlit_dashboard.py
+The Streamlit app will start running and you will see a local URL (e.g., `http://localhost:8501`) in the terminal.
+
+Open your web browser and enter the URL displayed in the terminal to access the Streamlit dashboard.
+   
 
