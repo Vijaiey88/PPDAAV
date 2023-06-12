@@ -35,16 +35,37 @@ git clone https://github.com/your_username/phonepe-pulse.git
 
 ## Usage
 
-1. Install the required libraries:
-import pandas as pd 
-import plotly.express as px
-import streamlit as st 
-import warnings
-import mysql.connector
-import geopandas as gpd
-warnings.filterwarnings("ignore")
+1.Install the required libraries:
+
+   - pandas:
+     ```
+     pip install pandas
+     ```
+
+   - plotly.express:
+     ```
+     pip install plotly.express
+     ```
+
+   - streamlit:
+     ```
+     pip install streamlit
+     ```
+
+   - warnings:
+     This library is part of the Python standard library and does not require separate installation.
+
+   - mysql.connector:
+     ```
+     pip install mysql-connector-python
+     ```
+
+   - geopandas:
+     ```
+     pip install geopandas
+     ```
 
 2. Run the Streamlit app:
-streamlit run app.py
+streamlit run streamlit_dashboard.py
 
 
