@@ -5,7 +5,7 @@ This repository contains code for visualizing and exploring PhonePe Pulse data u
 ## Data Extraction
 
 1. Clone the GitHub repository using Git Bash:
-git clone https://github.com/your_username/phonepe-pulse.git
+git clone https://github.com/Vijaiey88/PPDAAV.git
 
 2. Retrieve the data from the PhonePe Pulse GitHub repository.
 
