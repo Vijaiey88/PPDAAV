@@ -67,7 +67,7 @@ git clone https://github.com/Vijaiey88/PPDAAV.git
 
    Run the following command:
    streamlit run streamlit_dashboard.py
-The Streamlit app will start running and you will see a local URL (e.g., `http://localhost:8501`) in the terminal.
+The Streamlit app will start running and you will see a local URL (e.g., `http://localhost:8502`) in the terminal.
 
 Open your web browser and enter the URL displayed in the terminal to access the Streamlit dashboard.
    
