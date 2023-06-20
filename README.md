@@ -25,7 +25,7 @@ git clone https://github.com/Vijaiey88/PPDAAV.git
 1. Use Streamlit and Plotly libraries in Python to create an interactive and visually appealing dashboard.
 2. Utilize Plotly's built-in geo map functions to display the data on a map.
 3. Use Streamlit to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
-4. Import libraries such as pandas, plotly.express, mysql.connector, geopandas, and warnings for dashboard creation.
+4. Import libraries such as pandas, plotly.express, mysql.connector and geopandas for dashboard creation.
 
 ## Data Retrieval
 
@@ -51,9 +51,6 @@ git clone https://github.com/Vijaiey88/PPDAAV.git
      ```
      pip install streamlit
      ```
-
-   - warnings:
-     This library is part of the Python standard library and does not require separate installation.
 
    - mysql.connector:
      ```
