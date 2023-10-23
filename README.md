@@ -2,7 +2,7 @@
 # Phonepe Pulse Data Analytics
 The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. This app offers an interactive and user-friendly platform for visualizing data, enabling users to make informed decisions and drive improvements based on data-driven insights.
 
-## 🛠 Skills
+## Skills
 Python // Pandas // Mysql // Data visualisation // Streamlit  
 
 
