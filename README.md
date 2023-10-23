@@ -1,74 +1,63 @@
-# PhonePe Pulse Data Analysis and Visualization
 
-This repository contains code for visualizing and exploring PhonePe Pulse data using Streamlit and Plotly.
+# Phonepe Pulse Data Analytics
+The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. This app offers an interactive and user-friendly platform for visualizing data, enabling users to make informed decisions and drive improvements based on data-driven insights.
 
-## Data Extraction
+## 🛠 Skills
+Python // Pandas // Mysql // Data visualisation // Streamlit  
 
-1. Clone the GitHub repository using Git Bash:
-git clone https://github.com/Vijaiey88/PPDAAV.git
-
-2. Retrieve the data from the PhonePe Pulse GitHub repository.
-
-## Data Transformation
-
-1. Use a scripting language such as Python along with libraries such as Pandas to manipulate and preprocess the data.
-2. Clean the data, handle missing values, and transform the data into a DataFrame for analysis and visualization.
-3. Use libraries such as os, json, pandas, mysql.connector, and csv for data extraction and transformation.
-
-## Database Insertion
-
-1. Connect to a MySQL database using the `mysql.connector` library in Python.
-2. Insert the transformed data into the database using SQL commands.
-
-## Dashboard Creation
-
-1. Use Streamlit and Plotly libraries in Python to create an interactive and visually appealing dashboard.
-2. Utilize Plotly's built-in geo map functions to display the data on a map.
-3. Use Streamlit to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
-4. Import libraries such as pandas, plotly.express, mysql.connector and geopandas for dashboard creation.
-
-## Data Retrieval
-
-1. Use the `mysql.connector` library to connect to the MySQL database.
-2. Fetch the data into a Pandas DataFrame.
-3. Update the dashboard dynamically with the data from the DataFrame.
 
 ## Usage
 
-1.Install the required libraries:
+Clone the project
 
-   - pandas:
-     ```
-     pip install pandas
-     ```
+```bash
+https://github.com/Vijaiey88/Phonepe-Pulse-Data-Visualization-and-Exploration
+```
 
-   - plotly.express:
-     ```
-     pip install plotly.express
-     ```
+Go to the project directory
 
-   - streamlit:
-     ```
-     pip install streamlit
-     ```
+```bash
+cd your_project_directory
+```
 
-   - mysql.connector:
-     ```
-     pip install mysql-connector-python
-     ```
+Create virtual environment (Vscode)
 
-   - geopandas:
-     ```
-     pip install geopandas
-     ```
+```bash
+conda create -p venv python==3.11.2
+```
+Activate virtual environment (Vscode)
 
-2. Run the Streamlit app:
-   Open your terminal or command prompt and navigate to the directory where your `streamlit_dashboard.py` file is located.
+```bash
+conda activate venv/ 
+```
 
-   Run the following command:
-   streamlit run streamlit_dashboard.py
-The Streamlit app will start running and you will see a local URL (e.g., `http://localhost:8502`) in the terminal.
+Install dependencies
 
-Open your web browser and enter the URL displayed in the terminal to access the Streamlit dashboard.
-   
+```bash
+pip install -r requirements.txt
+```
+
+Run streamlit server locally
+
+```bash
+streamlit run app.py
+```
+
+Please make sure you have Conda and Git installed and configured on your system. Also, ensure that you have navigated to the correct project directory before running these commands.
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at vijaiey88@gmail.com
+
+
+## Documentation
+[Phonepe Pulse Data](https://github.com/PhonePe/pulse)
+
+[Streamlit](https://docs.streamlit.io/library/api-reference)
+
 
