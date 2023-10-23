@@ -68,7 +68,7 @@ the digital payments landscape in India, making it a significant catalyst for pr
 <span style="font-size: 17px;">PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights and in-depth analysis based on our data put together 
 by the PhonePe team.</span>""", unsafe_allow_html=True)
     with media_column:
-        st.image('https://media.licdn.com/dms/image/C4D22AQEx2-WHPvwoJw/feedshare-shrink_800/0/1676351663830?e=1688601600&v=beta&t=So3jGNDCL1rKLseU3D05du-MaVx4yEilBjqDQRYFuDE')
+        st.image('image-750x-2021-09-06-07_28_37pm-61361e8d3b500.jpg')
 
 if selected_menu_item == "Search":
     # connection to the MySQL database
