@@ -47,8 +47,7 @@ Please make sure you have Conda and Git installed and configured on your system.
 
 ## Demo
 
-Insert gif or link to demo
-
+https://github.com/Vijaiey88/Phonepe-Pulse-Data-Visualization-and-Exploration/assets/125460160/20011fe0-add6-423a-af52-601f486bdbf2
 
 ## Feedback
 
